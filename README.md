@@ -15,18 +15,18 @@ The project is an educational tool to demonstrate how Rust can interact with web
 ## Installation
 1. Clone the repository to your local machine.
 2. Ensure that Rust, Cargo, and Trunk are installed. Trunk can be installed using the following command:
-~cargo install trunk~
+`cargo install trunk`
 
 3. Optionally, to access the application remotely or from other devices within the network, install [ngrok](https://ngrok.com/) on your system.
 
 ## Running the Application
-Navigate to the project's root directory and execute: ~trunk serve~
+Navigate to the project's root directory and execute: `trunk serve`
 
 ![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img-terminal-trunk-serve.png)
 
 This will compile the project and serve it on `http://[::1]:8080/`. For remote access, start ngrok with:
 
-~ngrok http 8080~
+`ngrok http 8080`
 
 ![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img-terminal-ngrok-http-8080.png)
 
