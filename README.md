@@ -6,6 +6,8 @@ This project is a simple yet functional example designed to explore WebAssembly 
 ## Project Overview
 The project is an educational tool to demonstrate how Rust can interact with web technologies through WebAssembly. It includes a basic user interface that showcases dynamic interaction with Rust-generated WebAssembly.
 
+![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img1.png)
+
 ## Prerequisites
 - Rust and Cargo installed on your system
 - [Trunk](https://trunkrs.dev/), a WASM web application bundler for Rust
