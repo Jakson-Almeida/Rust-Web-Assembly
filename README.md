@@ -17,7 +17,7 @@ The project is an educational tool to demonstrate how Rust can interact with web
 2. Ensure that Rust, Cargo, and Trunk are installed. Trunk can be installed using the following command:
 cargo install trunk
 
-![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img-terminal-trunk-serve)
+![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img-terminal-trunk-serve.png)
 
 3. Optionally, to access the application remotely or from other devices within the network, install [ngrok](https://ngrok.com/) on your system.
 
@@ -30,7 +30,7 @@ This will compile the project and serve it on `http://[::1]:8080/`. For remote a
 
 ngrok http 8080
 
-![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img-terminal-ngrok-http-8080)
+![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img-terminal-ngrok-http-8080.png)
 
 This provides a URL to access your server from anywhere.
 
