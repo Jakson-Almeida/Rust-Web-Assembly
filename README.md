@@ -1,7 +1,7 @@
 # WebAssembly with Rust Example
 
 ## Introduction
-This project is a simple yet functional example designed to explore WebAssembly (WASM) integrated with Rust. WebAssembly is a binary instruction format that provides a way to run code written in multiple languages on the web at near-native speed. Rust, known for its performance and safety, complements WebAssembly by allowing developers to write fast and secure web applications.
+This project is a simple yet functional example designed to explore *WebAssembly (WASM)* integrated with Rust. WebAssembly is a binary instruction format that provides a way to run code written in multiple languages on the web at near-native speed. Rust, known for its performance and safety, complements WebAssembly by allowing developers to write fast and secure web applications.
 
 ## Project Overview
 The project is an educational tool to demonstrate how Rust can interact with web technologies through WebAssembly. It includes a basic user interface that showcases dynamic interaction with Rust-generated WebAssembly.
