@@ -19,9 +19,11 @@ cargo install trunk
 
 ## Running the Application
 Navigate to the project's root directory and execute:
+
 trunk serve
 
 This will compile the project and serve it on `http://[::1]:8080/`. For remote access, start ngrok with:
+
 ngrok http 8080
 
 This provides a URL to access your server from anywhere.
