@@ -4,7 +4,7 @@
 This project is a simple yet functional example designed to explore **WebAssembly (WASM) integrated with Rust**. WebAssembly is a binary instruction format that provides a way to run code written in multiple languages on the web at near-native speed. Rust, known for its performance and safety, complements WebAssembly by allowing developers to write fast and secure web applications.
 
 ## Project Overview
-The project is an educational tool demonstrating how Rust can interact with web technologies through WebAssembly. It features a frontend entirely developed using the Sycamore framework, showcasing dynamic interactions and reactivity within a Rust-generated WebAssembly environment.
+The project is an educational tool demonstrating how Rust can interact with web technologies through WebAssembly. It features a frontend entirely developed using the **Sycamore framework**, showcasing dynamic interactions and reactivity within a Rust-generated WebAssembly environment.
 
 ![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img1.png)
 
