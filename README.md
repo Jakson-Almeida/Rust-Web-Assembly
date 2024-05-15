@@ -6,7 +6,7 @@ This project is a simple yet functional example designed to explore **WebAssembl
 ## Project Overview
 The project is an educational tool demonstrating how Rust can interact with web technologies through WebAssembly. It features a frontend entirely developed using the **Sycamore framework**, showcasing dynamic interactions and reactivity within a Rust-generated WebAssembly environment.
 
-![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img1.png)
+![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/GUI/data/READ-ME-img1.png)
 
 ## Prerequisites
 - Rust and Cargo installed on your system
@@ -25,17 +25,17 @@ Navigate to the project's root directory and execute:
 
 `trunk serve`
 
-![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img-terminal-trunk-serve.png)
+![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/GUI/data/READ-ME-img-terminal-trunk-serve.png)
 
 This will compile the project and serve it on `http://[::1]:8080/`. For remote access, start ngrok with:
 
 `ngrok http 8080`
 
-![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img-terminal-ngrok-http-8080.png)
+![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/GUI/data/READ-ME-img-terminal-ngrok-http-8080.png)
 
 This provides a URL to access your server from anywhere.
 
-![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/data/READ-ME-img2.png)
+![WebAssembly project](https://github.com/Jakson-Almeida/Rust-Web-Assembly/blob/main/GUI/data/READ-ME-img2.png)
 
 ## Conclusion
 This setup offers a practical introduction to developing web applications with Rust, WebAssembly, and the Sycamore framework, illustrating the powerful integration capabilities of these technologies.
