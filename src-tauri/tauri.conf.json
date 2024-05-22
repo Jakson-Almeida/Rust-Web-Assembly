@@ -28,7 +28,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.rwa.com",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
